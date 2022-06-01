@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/rajwedskalpana/static/css/main.4efb4010.chunk.css",
+    "main.js": "/rajwedskalpana/static/js/main.a0bb81f4.chunk.js",
+    "main.js.map": "/rajwedskalpana/static/js/main.a0bb81f4.chunk.js.map",
+    "runtime-main.js": "/rajwedskalpana/static/js/runtime-main.4c7bc247.js",
+    "runtime-main.js.map": "/rajwedskalpana/static/js/runtime-main.4c7bc247.js.map",
+    "static/js/2.931db8b7.chunk.js": "/rajwedskalpana/static/js/2.931db8b7.chunk.js",
+    "static/js/2.931db8b7.chunk.js.map": "/rajwedskalpana/static/js/2.931db8b7.chunk.js.map",
+    "static/js/3.9db63436.chunk.js": "/rajwedskalpana/static/js/3.9db63436.chunk.js",
+    "static/js/3.9db63436.chunk.js.map": "/rajwedskalpana/static/js/3.9db63436.chunk.js.map",
+    "index.html": "/rajwedskalpana/index.html",
+    "static/css/main.4efb4010.chunk.css.map": "/rajwedskalpana/static/css/main.4efb4010.chunk.css.map",
+    "static/js/2.931db8b7.chunk.js.LICENSE.txt": "/rajwedskalpana/static/js/2.931db8b7.chunk.js.LICENSE.txt",
+    "static/media/1.3beae58f.jpg": "/rajwedskalpana/static/media/1.3beae58f.jpg",
+    "static/media/2.0e2a0762.jpg": "/rajwedskalpana/static/media/2.0e2a0762.jpg",
+    "static/media/3.730a9a63.jpg": "/rajwedskalpana/static/media/3.730a9a63.jpg",
+    "static/media/4.3475933d.jpg": "/rajwedskalpana/static/media/4.3475933d.jpg",
+    "static/media/5.e6439b57.jpg": "/rajwedskalpana/static/media/5.e6439b57.jpg",
+    "static/media/6.c49982bb.jpg": "/rajwedskalpana/static/media/6.c49982bb.jpg",
+    "static/media/index.css": "/rajwedskalpana/static/media/wedding-logo.6990e6f8.png",
+    "static/media/bride1.209247b1.jpeg": "/rajwedskalpana/static/media/bride1.209247b1.jpeg",
+    "static/media/groom1.c4d223d3.jpeg": "/rajwedskalpana/static/media/groom1.c4d223d3.jpeg",
+    "static/media/logo.c89c62cf.png": "/rajwedskalpana/static/media/logo.c89c62cf.png",
+    "static/media/story.e4e9411f.jpg": "/rajwedskalpana/static/media/story.e4e9411f.jpg",
+    "static/media/where-1.72bfde4a.jpg": "/rajwedskalpana/static/media/where-1.72bfde4a.jpg",
+    "static/media/where-2.1f12a5cd.jpg": "/rajwedskalpana/static/media/where-2.1f12a5cd.jpg",
+    "static/media/where-3.36daf174.jpg": "/rajwedskalpana/static/media/where-3.36daf174.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c7bc247.js",
+    "static/js/2.931db8b7.chunk.js",
+    "static/css/main.4efb4010.chunk.css",
+    "static/js/main.a0bb81f4.chunk.js"
+  ]
+}

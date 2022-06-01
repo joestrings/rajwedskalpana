@@ -21,7 +21,7 @@ function App() {
         {/* <Story /> */}
         <Organization />
         <Seeyou />
-        <Gallery />
+        {/* <Gallery /> */}
         <Where />
         <RSVP />
         <Footer />

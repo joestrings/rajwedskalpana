@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rajwedskalpana/static/css/main.4efb4010.chunk.css",
-    "main.js": "/rajwedskalpana/static/js/main.a0bb81f4.chunk.js",
-    "main.js.map": "/rajwedskalpana/static/js/main.a0bb81f4.chunk.js.map",
+    "main.js": "/rajwedskalpana/static/js/main.0b2ccb82.chunk.js",
+    "main.js.map": "/rajwedskalpana/static/js/main.0b2ccb82.chunk.js.map",
     "runtime-main.js": "/rajwedskalpana/static/js/runtime-main.4c7bc247.js",
     "runtime-main.js.map": "/rajwedskalpana/static/js/runtime-main.4c7bc247.js.map",
     "static/js/2.931db8b7.chunk.js": "/rajwedskalpana/static/js/2.931db8b7.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.4c7bc247.js",
     "static/js/2.931db8b7.chunk.js",
     "static/css/main.4efb4010.chunk.css",
-    "static/js/main.a0bb81f4.chunk.js"
+    "static/js/main.0b2ccb82.chunk.js"
   ]
 }

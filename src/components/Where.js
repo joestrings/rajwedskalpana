@@ -36,7 +36,7 @@ function Where () {
               <img src={where2} alt='' />
             </div>
             <div className='content'>
-              <h5>Weddding Ceremony </h5>
+              <h5>Wedding Ceremony </h5>
               <p>
                 <i className='ti-location-pin'></i> C.S.I Christ Church(S.P.G),Near Children's park,
                 Kurnool

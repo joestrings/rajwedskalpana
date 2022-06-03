@@ -14,6 +14,7 @@ function Header () {
             </h1>
             <h5 className='animate-box' data-animate-effect='fadeInUp' style={{color: "#FFFDD1"}}><bold>
               9th June, 2022 – Kurnool
+              
            </bold> </h5>
           </div>
         </div>

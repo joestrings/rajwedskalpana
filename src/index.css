@@ -876,10 +876,12 @@ body.slide .oliven-nav-toggle {
 }
 .header.parallaxie {
   background-image: url(./assets/images/slider.jpg);
+  min-height: 100vh;
 }
 @media screen and (max-width: 991px) {
     .header {
         background-position: center center;
+        min-height: 100vh;
     }
     .header .caption h1 {
         font-size: 40px;
@@ -1069,6 +1071,7 @@ body.slide .oliven-nav-toggle {
 #countdown {
     text-align: center;
     background-image: url(./assets/images/banner-1.jpg);
+    background-position: center center;
 }
 #countdown .section-head {
     margin-bottom: 15px;
@@ -1288,6 +1291,7 @@ body.slide .oliven-nav-toggle {
 /* ======= See You style ======= */
 .seeyou {
   background-image: url(./assets/images/banner-3.jpg);
+  background-position: center center;
 }
 .seeyou .section-head span {
     color: #fff;

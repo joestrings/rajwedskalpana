@@ -9,10 +9,10 @@ function Header () {
       <div className='container'>
         <div className='row'>
           <div className='col-md-12 text-center caption'>
-            <h1 className='animate-box' data-animate-effect='fadeInUp' style={{color: "#FFFDD0"}}>
+            <h1 className='animate-box' data-animate-effect='fadeInUp' style={{color: "#723A4F"}}>
               Raj & Kalpana
             </h1>
-            <h5 className='animate-box' data-animate-effect='fadeInUp' style={{color: "#FFFDD1"}}><bold>
+            <h5 className='animate-box' data-animate-effect='fadeInUp' style={{color: "#723A4F"}}><bold>
               9th June, 2022 – Kurnool
               
            </bold> </h5>

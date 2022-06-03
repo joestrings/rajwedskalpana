@@ -868,7 +868,7 @@ body.slide .oliven-nav-toggle {
     font-size: 120px;
     color: #FFF;
     display: block;
-    line-height: 1em;
+    line-height: 0em;
     position: relative;
 }
 .header .caption p {

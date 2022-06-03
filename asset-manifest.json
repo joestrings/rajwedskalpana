@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rajwedskalpana/static/css/main.3144b5bf.chunk.css",
-    "main.js": "/rajwedskalpana/static/js/main.fbc5d587.chunk.js",
-    "main.js.map": "/rajwedskalpana/static/js/main.fbc5d587.chunk.js.map",
-    "runtime-main.js": "/rajwedskalpana/static/js/runtime-main.4c7bc247.js",
-    "runtime-main.js.map": "/rajwedskalpana/static/js/runtime-main.4c7bc247.js.map",
-    "static/js/2.931db8b7.chunk.js": "/rajwedskalpana/static/js/2.931db8b7.chunk.js",
-    "static/js/2.931db8b7.chunk.js.map": "/rajwedskalpana/static/js/2.931db8b7.chunk.js.map",
-    "static/js/3.9db63436.chunk.js": "/rajwedskalpana/static/js/3.9db63436.chunk.js",
-    "static/js/3.9db63436.chunk.js.map": "/rajwedskalpana/static/js/3.9db63436.chunk.js.map",
+    "main.css": "/rajwedskalpana/static/css/main.37c1a84c.chunk.css",
+    "main.js": "/rajwedskalpana/static/js/main.1eeb7e80.chunk.js",
+    "main.js.map": "/rajwedskalpana/static/js/main.1eeb7e80.chunk.js.map",
+    "runtime-main.js": "/rajwedskalpana/static/js/runtime-main.07c2d7e4.js",
+    "runtime-main.js.map": "/rajwedskalpana/static/js/runtime-main.07c2d7e4.js.map",
+    "static/js/2.84371a89.chunk.js": "/rajwedskalpana/static/js/2.84371a89.chunk.js",
+    "static/js/2.84371a89.chunk.js.map": "/rajwedskalpana/static/js/2.84371a89.chunk.js.map",
+    "static/js/3.388349fa.chunk.js": "/rajwedskalpana/static/js/3.388349fa.chunk.js",
+    "static/js/3.388349fa.chunk.js.map": "/rajwedskalpana/static/js/3.388349fa.chunk.js.map",
     "index.html": "/rajwedskalpana/index.html",
-    "static/css/main.3144b5bf.chunk.css.map": "/rajwedskalpana/static/css/main.3144b5bf.chunk.css.map",
-    "static/js/2.931db8b7.chunk.js.LICENSE.txt": "/rajwedskalpana/static/js/2.931db8b7.chunk.js.LICENSE.txt",
+    "static/css/main.37c1a84c.chunk.css.map": "/rajwedskalpana/static/css/main.37c1a84c.chunk.css.map",
+    "static/js/2.84371a89.chunk.js.LICENSE.txt": "/rajwedskalpana/static/js/2.84371a89.chunk.js.LICENSE.txt",
     "static/media/1.2ad2fb63.jpg": "/rajwedskalpana/static/media/1.2ad2fb63.jpg",
     "static/media/2.51331316.jpg": "/rajwedskalpana/static/media/2.51331316.jpg",
     "static/media/3.950b4d4a.jpg": "/rajwedskalpana/static/media/3.950b4d4a.jpg",
-    "static/media/4.a07e979f.jpg": "/rajwedskalpana/static/media/4.a07e979f.jpg",
-    "static/media/5.7d888d86.jpg": "/rajwedskalpana/static/media/5.7d888d86.jpg",
+    "static/media/4.7d888d86.jpg": "/rajwedskalpana/static/media/4.7d888d86.jpg",
+    "static/media/5.d302f234.jpg": "/rajwedskalpana/static/media/5.d302f234.jpg",
     "static/media/6.d88f7c00.jpg": "/rajwedskalpana/static/media/6.d88f7c00.jpg",
     "static/media/index.css": "/rajwedskalpana/static/media/wedding-logo.6990e6f8.png",
     "static/media/bride1.209247b1.jpeg": "/rajwedskalpana/static/media/bride1.209247b1.jpeg",
@@ -28,9 +28,9 @@
     "static/media/where-3.36daf174.jpg": "/rajwedskalpana/static/media/where-3.36daf174.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c7bc247.js",
-    "static/js/2.931db8b7.chunk.js",
-    "static/css/main.3144b5bf.chunk.css",
-    "static/js/main.fbc5d587.chunk.js"
+    "static/js/runtime-main.07c2d7e4.js",
+    "static/js/2.84371a89.chunk.js",
+    "static/css/main.37c1a84c.chunk.css",
+    "static/js/main.1eeb7e80.chunk.js"
   ]
 }

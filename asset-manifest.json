@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rajwedskalpana/static/css/main.775309eb.chunk.css",
-    "main.js": "/rajwedskalpana/static/js/main.ab7b858d.chunk.js",
-    "main.js.map": "/rajwedskalpana/static/js/main.ab7b858d.chunk.js.map",
+    "main.css": "/rajwedskalpana/static/css/main.6141238a.chunk.css",
+    "main.js": "/rajwedskalpana/static/js/main.870be888.chunk.js",
+    "main.js.map": "/rajwedskalpana/static/js/main.870be888.chunk.js.map",
     "runtime-main.js": "/rajwedskalpana/static/js/runtime-main.4c7bc247.js",
     "runtime-main.js.map": "/rajwedskalpana/static/js/runtime-main.4c7bc247.js.map",
     "static/js/2.931db8b7.chunk.js": "/rajwedskalpana/static/js/2.931db8b7.chunk.js",
@@ -10,16 +10,16 @@
     "static/js/3.9db63436.chunk.js": "/rajwedskalpana/static/js/3.9db63436.chunk.js",
     "static/js/3.9db63436.chunk.js.map": "/rajwedskalpana/static/js/3.9db63436.chunk.js.map",
     "index.html": "/rajwedskalpana/index.html",
-    "static/css/main.775309eb.chunk.css.map": "/rajwedskalpana/static/css/main.775309eb.chunk.css.map",
+    "static/css/main.6141238a.chunk.css.map": "/rajwedskalpana/static/css/main.6141238a.chunk.css.map",
     "static/js/2.931db8b7.chunk.js.LICENSE.txt": "/rajwedskalpana/static/js/2.931db8b7.chunk.js.LICENSE.txt",
-    "static/media/1.7d888d86.jpg": "/rajwedskalpana/static/media/1.7d888d86.jpg",
-    "static/media/2.47b1fbcc.jpg": "/rajwedskalpana/static/media/2.47b1fbcc.jpg",
-    "static/media/3.a8365776.jpg": "/rajwedskalpana/static/media/3.a8365776.jpg",
+    "static/media/1.2ad2fb63.jpg": "/rajwedskalpana/static/media/1.2ad2fb63.jpg",
+    "static/media/2.51331316.jpg": "/rajwedskalpana/static/media/2.51331316.jpg",
+    "static/media/3.950b4d4a.jpg": "/rajwedskalpana/static/media/3.950b4d4a.jpg",
     "static/media/4.a07e979f.jpg": "/rajwedskalpana/static/media/4.a07e979f.jpg",
-    "static/media/5.51331316.jpg": "/rajwedskalpana/static/media/5.51331316.jpg",
+    "static/media/5.7d888d86.jpg": "/rajwedskalpana/static/media/5.7d888d86.jpg",
     "static/media/6.d88f7c00.jpg": "/rajwedskalpana/static/media/6.d88f7c00.jpg",
     "static/media/index.css": "/rajwedskalpana/static/media/wedding-logo.6990e6f8.png",
-    "static/media/bride1.44b7700b.jpeg": "/rajwedskalpana/static/media/bride1.44b7700b.jpeg",
+    "static/media/bride1.209247b1.jpeg": "/rajwedskalpana/static/media/bride1.209247b1.jpeg",
     "static/media/groom1.b2a17f6f.jpeg": "/rajwedskalpana/static/media/groom1.b2a17f6f.jpeg",
     "static/media/logo.c89c62cf.png": "/rajwedskalpana/static/media/logo.c89c62cf.png",
     "static/media/story.e4e9411f.jpg": "/rajwedskalpana/static/media/story.e4e9411f.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.4c7bc247.js",
     "static/js/2.931db8b7.chunk.js",
-    "static/css/main.775309eb.chunk.css",
-    "static/js/main.ab7b858d.chunk.js"
+    "static/css/main.6141238a.chunk.css",
+    "static/js/main.870be888.chunk.js"
   ]
 }
